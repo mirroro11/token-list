@@ -11682,4 +11682,18 @@
     "minor": 2,
     "patch": 2
   }
-}
+},
+ {
+      "chainId": 101,
+      "address": "77C5tkABqFXqCmo3icYdiW4qntoFQWcxSomfx4GnoE3v",
+      "symbol": "NAture",
+      "name": "NFT NATURE TOKEN",
+      "decimals": 0,
+      "logoURI": "https://ibb.co/BVHxqwF",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "github": "https://github.com/mirroro11"
+      }
+    }
